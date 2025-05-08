@@ -1,5 +1,0 @@
-echo venv/> C:\Users\<Hp>\Desktop\chicken-disease-app\.gitignore
-echo __pycache__/.>> C:\Users\<Hp>\Desktop\chicken-disease-app\.gitignore
-echo *.pyc>> C:\Users\<Hp>\Desktop\chicken-disease-app\.gitignore
-echo .env>> C:\Users\<Hp>\Desktop\chicken-disease-app\.gitignore
-echo .DS_Store>> C:\Users\<Hp>\Desktop\chicken-disease-app\.gitignore
